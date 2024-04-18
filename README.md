@@ -1,8 +1,7 @@
 ### Welcome to my profile! 👋
 
-- 🔭 I’m currently working on college projects
-- 🌱 I’m currently learning about C and PL/SQL
-- ⚡ Fun fact: I love challenges!
+- 🔭 I’m currently working in Skedway
+- 🌱 I’m currently learning about Kotlin and MongoDB
 
 <div align="center">
   <a href="https://github.com/LeonardoDanna">
