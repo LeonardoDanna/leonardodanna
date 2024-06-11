@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
-- 🔭 I’m currently working in Skedway
-- 🌱 I’m currently learning about Kotlin and MongoDB
+- 🔭 I’m currently working in <strong>Skedway</strong>
+- 🌱 I’m currently learning about <strong>Flutter</strong> and <strong>Firebase</strong>
 
 <div align="center">
   <a href="https://github.com/LeonardoDanna">
