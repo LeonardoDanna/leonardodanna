@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
-- 🔭 I’m currently working in <strong>Data Structures & Algorithms</strong>
-- 🌱 I’m currently learning about <strong>Python</strong>
+- 🔭 I’m currently working in <strong>-</strong>
+- 🌱 I’m currently learning about <strong>Data Structures & Algorithms with Python</strong>
 
 <div align="center">
   <a href="https://github.com/LeonardoDanna">
