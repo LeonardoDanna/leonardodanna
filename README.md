@@ -2,38 +2,73 @@
 
 # Olá, eu sou Leonardo Danna! 👋
 
-### Analista SAP TM | Entusiasta de Tecnologia | Desenvolvedor Full Stack
+### Desenvolvedor Full Stack | Analista SAP TM | Entusiasta de IA & Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-danna/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardosouzadanna@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://leonardodanna.github.io/)
 
 </div>
 
 ---
 
-## 💫 Sobre Mim
+## 🙋 Sobre Mim
 
-Sou apaixonado por tecnologia e atualmente atuo como **SAP TM Analyst** na **R2SAP Consulting**. Tenho experiência em desenvolvimento Full Stack, Data Science, Machine Learning e automação de processos.
+Sou apaixonado por tecnologia e atuo como **SAP TM Analyst** na **R2SAP Consulting**. Tenho experiência em desenvolvimento Full Stack, Data Science, Machine Learning e automação de processos. Gosto de construir produtos que resolvem problemas reais — de plataformas web completas a sistemas de IA aplicada.
 
-- 🔭 Trabalhando atualmente na **R2SAP Consulting** como SAP TM Analyst
-- 🌱 Sempre aprendendo novas tecnologias e frameworks
-- 💡 Apaixonado por resolver problemas com código
+- 🚀 Trabalhando atualmente na **R2SAP Consulting** como SAP TM Analyst
+- 🤖 Desenvolvendo projetos com IA Generativa e Machine Learning
+- 💡 Apaixonado por resolver problemas reais com código
 - 📍 Campinas - SP, Brasil
-- 📬 Contato: leonardosouzadanna@gmail.com
+- 📬 leonardosouzadanna@gmail.com
+
+  ---
+## 🚀 Projetos em Destaque
+### 🚖 [SorocabaExecutivos](https://github.com/LeonardoDanna/SorocabaExecutivos)
+
+Plataforma web completa de transporte executivo premium. Sistema com múltiplos perfis (cliente, motorista, admin), dashboard com KPIs em tempo real, rastreamento de frota via GPS, integração com WhatsApp (Z-API), e-mail (Resend) e autenticação (NextAuth).
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `NextAuth` `Z-API` `Resend` `Vercel`
 
 ---
 
-## 🚀 Projetos em Destaque
+### 👗 [PIVI — Personal Stylist Virtual](https://github.com/LeonardoDanna/PIVI)
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [PIVI](https://github.com/LeonardoDanna/PIV) | Sistema de previsão de compras para restaurantes usando regressão linear e redes neurais LSTM | Python, ML |
-| [EspacoDanna](https://github.com/LeonardoDanna/EspacoDanna) | Site institucional de salão de beleza | React, TypeScript, Tailwind |
-| [BaciasPCJ](https://github.com/LeonardoDanna/BaciasPCJ) | Monitoramento de notícias para proteção hídrica das bacias PCJ | Python |
-| [DireCerto](https://github.com/LeonardoDanna/DireCerto) | Aplicação TypeScript moderna | TypeScript |
-| [promoNiver](https://github.com/LeonardoDanna/promoNiver) | Automação de mensagens promocionais de aniversário | Python |
-| [capturaLeads](https://github.com/LeonardoDanna/capturaLeads) | Ferramenta de automação de captura de leads | Python, HTML |
-| [Sorocaba-Executivos](https://github.com/LeonardoDanna/Sorocaba-Executivos) | Site feito para uma empresa de taxi de alto padrão | 
+IA generativa que permite ao usuário enviar uma foto e visualizar como ficaria vestindo uma roupa. Inclui sugestões de looks baseadas no clima, evento, cor favorita e altura, além de armário virtual.
+
+**Stack:** `TypeScript` `Python` `Django` `React` `IA Generativa`
+
+---
+
+### 📊 [PIV — Sistema de Previsão de Compras](https://github.com/LeonardoDanna/PIV)
+
+Sistema de previsão de demanda para restaurantes usando redes neurais LSTM e Regressão Linear. Avaliado com métricas MSE, MAE e R². Foco em redução de desperdício e otimização de custos operacionais.
+
+**Stack:** `Python` `TensorFlow` `scikit-learn` `pandas` `NumPy` `Matplotlib`
+
+---
+
+### 💇 [EspacoDanna](https://github.com/LeonardoDanna/EspacoDanna)
+
+Site institucional completo para salão de beleza com design responsivo, animações (Framer Motion), mapa interativo, integração com WhatsApp e SEO otimizado. Projeto entregue para cliente real.
+
+**Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion`
+
+---
+
+### 🌊 [BaciasPCJ](https://github.com/LeonardoDanna/BaciasPCJ)
+
+Sistema de monitoramento de notícias hídricas das Bacias PCJ. Coleta via web scraping e RSS, análise por palavras-chave, classificação de criticidade e geração de relatórios em `.docx`, `.json` e `.csv` com persistência em SQLite.
+
+**Stack:** `Python` `BeautifulSoup` `SQLite` `python-docx`
+
+---
+
+### 🛣️ [DireCerto](https://github.com/LeonardoDanna/DireCerto)
+
+Landing page para plataforma de busca de instrutores de direção credenciados, com filtros por categoria (A, B, PCD) e localização. Interface focada em conversão com identidade visual própria.
+
+**Stack:** `React 19` `TypeScript` `Vite` `Tailwind CSS 4`
 
 ---
 
@@ -44,84 +79,39 @@ Sou apaixonado por tecnologia e atualmente atuo como **SAP TM Analyst** na **R2S
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Data Science & IA
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Ferramentas & Outros
+### Ferramentas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoDanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LeonardoDanna&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LeonardoDanna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Repositórios Contribuídos
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=LeonardoDanna&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-
-*"A tecnologia é a ponte entre o que somos e o que podemos nos tornar."*
 
 </div>
