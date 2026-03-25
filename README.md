@@ -5,11 +5,7 @@
 ### Analista SAP TM | Entusiasta de Tecnologia | Desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-danna/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://leonardodanna.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardosouzadanna@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoDanna)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=LeonardoDanna&icon=0&color=0)
 
 </div>
 
@@ -37,6 +33,7 @@ Sou apaixonado por tecnologia e atualmente atuo como **SAP TM Analyst** na **R2S
 | [DireCerto](https://github.com/LeonardoDanna/DireCerto) | Aplicação TypeScript moderna | TypeScript |
 | [promoNiver](https://github.com/LeonardoDanna/promoNiver) | Automação de mensagens promocionais de aniversário | Python |
 | [capturaLeads](https://github.com/LeonardoDanna/capturaLeads) | Ferramenta de automação de captura de leads | Python, HTML |
+| [Sorocaba-Executivos](https://github.com/LeonardoDanna/Sorocaba-Executivos) | Site feito para uma empresa de taxi de alto padrão | 
 
 ---
 
