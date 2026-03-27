@@ -107,16 +107,6 @@ Landing page para plataforma de busca de instrutores de direção credenciados, 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoDanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
 <div align="center">
 
 *"Programação é a forma mais próxima que existe de um humano ter superpoderes."*
